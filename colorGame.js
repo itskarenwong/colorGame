@@ -1,3 +1,7 @@
+<!-- Karen Wong -->
+<!-- colorGame.js -->
+
+// variable declarations and query selections
 var numSquares = 6;
 var colors = generateRandColors(numSquares);
 var squares = document.querySelectorAll(".square");
